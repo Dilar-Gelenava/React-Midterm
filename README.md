@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project is hosted on Netlify,
-Open []() to view it in the browser.
+This project is hosted on Netlify, მაგრამ მარტო ლოკალზე მუშაობს რატომღაც😢,
+Open [https://eloquent-bardeen-ce0394.netlify.app/](https://eloquent-bardeen-ce0394.netlify.app/) to view it in the browser.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
